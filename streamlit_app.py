@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 st.title("pink[volume tabung]")
-r = st.numberInput("Masukkan jari-jari (cm)")
-t = st.numberInput("Masukkan tinggi tabung (cm)")
+r = st.number_input("Masukkan jari-jari (cm)")
+t = st.number_input("Masukkan tinggi tabung (cm)")
 
-if 
+
