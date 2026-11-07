@@ -1,6 +1,6 @@
 import streamlit as st
 import math
-import theme 
+import theme.primaryColor
 
 [theme]
 base="dark"
